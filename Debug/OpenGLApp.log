@@ -1,15 +1,5 @@
-﻿  MyWindow.cpp
+﻿  main.cpp
 C:\Users\Adrian\Documents\GitHub\ComputoGrafico\OpenGLApp\MyWindow.h(14,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
 C:\Users\Adrian\Documents\GitHub\ComputoGrafico\OpenGLApp\MyWindow.h(15,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
-C:\Users\Adrian\Documents\GitHub\ComputoGrafico\OpenGLApp\MyWindow.cpp(118,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\Adrian\Documents\GitHub\ComputoGrafico\OpenGLApp\MyWindow.cpp(119,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\Adrian\Documents\GitHub\ComputoGrafico\OpenGLApp\MyWindow.cpp(123,27): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\Adrian\Documents\GitHub\ComputoGrafico\OpenGLApp\MyWindow.cpp(124,38): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\Adrian\Documents\GitHub\ComputoGrafico\OpenGLApp\MyWindow.cpp(126,20): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\Adrian\Documents\GitHub\ComputoGrafico\OpenGLApp\MyWindow.cpp(127,20): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-  main.cpp
-C:\Users\Adrian\Documents\GitHub\ComputoGrafico\OpenGLApp\MyWindow.h(14,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
-C:\Users\Adrian\Documents\GitHub\ComputoGrafico\OpenGLApp\MyWindow.h(15,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
-  Generando código...
-C:\Users\Adrian\Documents\GitHub\ComputoGrafico\OpenGLApp\MyWindow.cpp(76): warning C4715: 'MyWindow::initialise': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Adrian\Documents\GitHub\ComputoGrafico\OpenGLApp\main.cpp(98,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
   OpenGLApp.vcxproj -> C:\Users\Adrian\Documents\GitHub\ComputoGrafico\OpenGLApp\Debug\OpenGLApp.exe

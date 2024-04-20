@@ -12,6 +12,7 @@
 #include "Mesh.h"
 #include "Shader.h"
 #include "MyWindow.h"
+#include "Camera.h"
 
 // Window dimensions
 //const GLint WIDTH = 800, HEIGHT = 800;
@@ -20,6 +21,11 @@ const float toRadians = 3.14159265f / 180.0f;
 MyWindow mainWindow;
 std::vector<Mesh*> meshList;
 std::vector<Shader> shaderList;
+Camera camera;
+
+GLfloat deltaTime = 0.0f;
+GLfloat lastTime = 0.0f;
+
 
 //
 //bool direction = true;
@@ -80,14 +86,25 @@ int main() {
 	CreateObjects();
 	createShaders();
 
-	GLuint uniformProjection = 0, uniformModel = 0;
+	camera = Camera(glm::vec3(0.0f, 0.0f, 0.0f), glm::vec3(0.0f, 1.0f, 0.0f), -90.0f, 0.0f, 5.0f, 0.5f);
+
+	GLuint uniformProjection = 0, uniformModel = 0, uniformView = 0;
 
 	glm::mat4 projection = glm::perspective(45.0f, mainWindow.getBufferWidth()/mainWindow.getBufferHeight(), 0.1f, 100.0f);
 
 	// Loop until window closed
 	while (!mainWindow.getShouldClose()){
+
+		GLfloat now = glfwGetTime();
+		deltaTime = now - lastTime;
+		lastTime = now;
+
+
 		// Get and Handle user input events
 		glfwPollEvents();
+
+		camera.keyControl(mainWindow.getKeys(), deltaTime);
+		camera.mouseControl(mainWindow.getXChange(), mainWindow.getYChange());
 
 		//// Moving triangle from side to side
 		//if (direction) {
@@ -126,6 +143,7 @@ int main() {
 		shaderList[0].useShader();
 		uniformModel = shaderList[0].GetModelLocation();
 		uniformProjection = shaderList[0].GetProjectionLocation();
+		uniformView = shaderList[0].GetViewLocation();
 
 		glm::mat4 model(1.0f);
 		//model = glm::rotate(model, curAngle * toRadians, glm::vec3(0, 1, 0));
@@ -136,6 +154,7 @@ int main() {
 		model = glm::scale(model, glm::vec3(0.4f, 0.4f, 1.0f));
 		glUniformMatrix4fv(uniformModel, 1, GL_FALSE, glm::value_ptr(model));
 		glUniformMatrix4fv(uniformProjection, 1, GL_FALSE, glm::value_ptr(projection));
+		glUniformMatrix4fv(uniformView, 1, GL_FALSE, glm::value_ptr(camera.calculateViewMatrix()));
 		meshList[0]->renderMesh();
 
 		model = glm::mat4(1);
