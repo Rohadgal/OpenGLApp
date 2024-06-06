@@ -1,5 +1,2 @@
-﻿  main.cpp
-C:\Users\Adrian\Documents\GitHub\ComputoGrafico\OpenGLApp\MyWindow.h(14,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
-C:\Users\Adrian\Documents\GitHub\ComputoGrafico\OpenGLApp\MyWindow.h(15,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
-C:\Users\Adrian\Documents\GitHub\ComputoGrafico\OpenGLApp\main.cpp(98,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+﻿  Texture.cpp
   OpenGLApp.vcxproj -> C:\Users\Adrian\Documents\GitHub\ComputoGrafico\OpenGLApp\Debug\OpenGLApp.exe
