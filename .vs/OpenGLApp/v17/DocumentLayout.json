@@ -7,24 +7,28 @@
       "RelativeMoniker": "D:0:0:{248EF906-33D6-4BC8-A06C-8457C82C7437}|OpenGLApp.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{248EF906-33D6-4BC8-A06C-8457C82C7437}|OpenGLApp.vcxproj|C:\\Users\\Adrian\\Documents\\GitHub\\ComputoGrafico\\OpenGLApp\\Light.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{248EF906-33D6-4BC8-A06C-8457C82C7437}|OpenGLApp.vcxproj|solutionrelative:Light.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{248EF906-33D6-4BC8-A06C-8457C82C7437}|OpenGLApp.vcxproj|C:\\Users\\Adrian\\Documents\\GitHub\\ComputoGrafico\\OpenGLApp\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{248EF906-33D6-4BC8-A06C-8457C82C7437}|OpenGLApp.vcxproj|solutionrelative:Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248EF906-33D6-4BC8-A06C-8457C82C7437}|OpenGLApp.vcxproj|C:\\Users\\Adrian\\Documents\\GitHub\\ComputoGrafico\\OpenGLApp\\Mesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{248EF906-33D6-4BC8-A06C-8457C82C7437}|OpenGLApp.vcxproj|solutionrelative:Mesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{248EF906-33D6-4BC8-A06C-8457C82C7437}|OpenGLApp.vcxproj|C:\\Users\\Adrian\\Documents\\GitHub\\ComputoGrafico\\OpenGLApp\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{248EF906-33D6-4BC8-A06C-8457C82C7437}|OpenGLApp.vcxproj|solutionrelative:Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{248EF906-33D6-4BC8-A06C-8457C82C7437}|OpenGLApp.vcxproj|C:\\Users\\Adrian\\Documents\\GitHub\\ComputoGrafico\\OpenGLApp\\Light.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{248EF906-33D6-4BC8-A06C-8457C82C7437}|OpenGLApp.vcxproj|solutionrelative:Light.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{248EF906-33D6-4BC8-A06C-8457C82C7437}|OpenGLApp.vcxproj|C:\\Users\\Adrian\\Documents\\GitHub\\ComputoGrafico\\OpenGLApp\\Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{248EF906-33D6-4BC8-A06C-8457C82C7437}|OpenGLApp.vcxproj|solutionrelative:Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{248EF906-33D6-4BC8-A06C-8457C82C7437}|OpenGLApp.vcxproj|C:\\Users\\Adrian\\Documents\\GitHub\\ComputoGrafico\\OpenGLApp\\Light.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{248EF906-33D6-4BC8-A06C-8457C82C7437}|OpenGLApp.vcxproj|solutionrelative:Light.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{248EF906-33D6-4BC8-A06C-8457C82C7437}|OpenGLApp.vcxproj|C:\\Users\\Adrian\\Documents\\GitHub\\ComputoGrafico\\OpenGLApp\\Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{248EF906-33D6-4BC8-A06C-8457C82C7437}|OpenGLApp.vcxproj|solutionrelative:Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{248EF906-33D6-4BC8-A06C-8457C82C7437}|OpenGLApp.vcxproj|C:\\Users\\Adrian\\Documents\\GitHub\\ComputoGrafico\\OpenGLApp\\Texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Documents\\GitHub\\ComputoGrafico\\OpenGLApp\\stb_image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:stb_image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{248EF906-33D6-4BC8-A06C-8457C82C7437}|OpenGLApp.vcxproj|C:\\Users\\Adrian\\Documents\\GitHub\\ComputoGrafico\\OpenGLApp\\Mesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{248EF906-33D6-4BC8-A06C-8457C82C7437}|OpenGLApp.vcxproj|solutionrelative:Mesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{248EF906-33D6-4BC8-A06C-8457C82C7437}|OpenGLApp.vcxproj|C:\\Users\\Adrian\\Documents\\GitHub\\ComputoGrafico\\OpenGLApp\\Mesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -66,34 +66,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 251,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Light.cpp",
               "DocumentMoniker": "C:\\Users\\Adrian\\Documents\\GitHub\\ComputoGrafico\\OpenGLApp\\Light.cpp",
               "RelativeDocumentMoniker": "Light.cpp",
               "ToolTip": "C:\\Users\\Adrian\\Documents\\GitHub\\ComputoGrafico\\OpenGLApp\\Light.cpp",
               "RelativeToolTip": "Light.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA5AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-05T22:36:53.112Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Light.h",
               "DocumentMoniker": "C:\\Users\\Adrian\\Documents\\GitHub\\ComputoGrafico\\OpenGLApp\\Light.h",
               "RelativeDocumentMoniker": "Light.h",
               "ToolTip": "C:\\Users\\Adrian\\Documents\\GitHub\\ComputoGrafico\\OpenGLApp\\Light.h",
               "RelativeToolTip": "Light.h",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAABAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAACLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-06-05T22:30:02.421Z",
               "EditorCaption": ""
@@ -108,11 +104,12 @@
               "RelativeToolTip": "Texture.cpp",
               "ViewState": "AQIAAAoAAAAAAAAAAAAAAB8AAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-26T05:46:22.252Z"
+              "WhenOpened": "2024-04-26T05:46:22.252Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Texture.h",
               "DocumentMoniker": "C:\\Users\\Adrian\\Documents\\GitHub\\ComputoGrafico\\OpenGLApp\\Texture.h",
               "RelativeDocumentMoniker": "Texture.h",
@@ -178,14 +175,14 @@
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\Adrian\\Documents\\GitHub\\ComputoGrafico\\OpenGLApp\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAF8AAAAAAAAAAAAAAGYAAAAlAAAA",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAAAJAAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-22T21:12:27.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "stb_image.h",
               "DocumentMoniker": "C:\\Users\\Adrian\\Documents\\GitHub\\ComputoGrafico\\OpenGLApp\\stb_image.h",
               "RelativeDocumentMoniker": "stb_image.h",
@@ -197,41 +194,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Shader.cpp",
               "DocumentMoniker": "C:\\Users\\Adrian\\Documents\\GitHub\\ComputoGrafico\\OpenGLApp\\Shader.cpp",
               "RelativeDocumentMoniker": "Shader.cpp",
               "ToolTip": "C:\\Users\\Adrian\\Documents\\GitHub\\ComputoGrafico\\OpenGLApp\\Shader.cpp",
               "RelativeToolTip": "Shader.cpp",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAAAFgAAAAAAAAA",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAAH8AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-06T05:19:32.956Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Shader.h",
               "DocumentMoniker": "C:\\Users\\Adrian\\Documents\\GitHub\\ComputoGrafico\\OpenGLApp\\Shader.h",
               "RelativeDocumentMoniker": "Shader.h",
               "ToolTip": "C:\\Users\\Adrian\\Documents\\GitHub\\ComputoGrafico\\OpenGLApp\\Shader.h",
               "RelativeToolTip": "Shader.h",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAABYAAAAjAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwBgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-04-06T03:45:38.528Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Mesh.cpp",
               "DocumentMoniker": "C:\\Users\\Adrian\\Documents\\GitHub\\ComputoGrafico\\OpenGLApp\\Mesh.cpp",
               "RelativeDocumentMoniker": "Mesh.cpp",
               "ToolTip": "C:\\Users\\Adrian\\Documents\\GitHub\\ComputoGrafico\\OpenGLApp\\Mesh.cpp",
               "RelativeToolTip": "Mesh.cpp",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABsAAAAcAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABkAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-06T01:57:43.326Z"
+              "WhenOpened": "2024-04-06T01:57:43.326Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
