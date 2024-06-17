@@ -1,9 +1,5 @@
 ﻿  main.cpp
 C:\Users\Adrian\Documents\GitHub\ComputoGrafico\OpenGLApp\MyWindow.h(14,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
 C:\Users\Adrian\Documents\GitHub\ComputoGrafico\OpenGLApp\MyWindow.h(15,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
-C:\Users\Adrian\Documents\GitHub\ComputoGrafico\OpenGLApp\main.cpp(157,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\Adrian\Documents\GitHub\ComputoGrafico\OpenGLApp\main.cpp(211,94): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
-C:\Users\Adrian\Documents\GitHub\ComputoGrafico\OpenGLApp\main.cpp(211,69): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
-C:\Users\Adrian\Documents\GitHub\ComputoGrafico\OpenGLApp\main.cpp(211,47): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
-C:\Users\Adrian\Documents\GitHub\ComputoGrafico\OpenGLApp\main.cpp(211,22): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+C:\Users\Adrian\Documents\GitHub\ComputoGrafico\OpenGLApp\main.cpp(165,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
   OpenGLApp.vcxproj -> C:\Users\Adrian\Documents\GitHub\ComputoGrafico\OpenGLApp\Debug\OpenGLApp.exe
